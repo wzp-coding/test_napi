@@ -42,7 +42,6 @@
     "universal": "napi universal",
     "version": "napi version"
   },
-  "packageManager": "yarn@4.1.1",
   "optionalDependencies": {
     "@poen/test_napi-win32-x64-msvc": "0.0.0",
     "@poen/test_napi-darwin-x64": "0.0.0",
