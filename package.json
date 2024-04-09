@@ -42,5 +42,22 @@
     "universal": "napi universal",
     "version": "napi version"
   },
-  "packageManager": "yarn@4.1.1"
+  "packageManager": "yarn@4.1.1",
+  "optionalDependencies": {
+    "@poen/test_napi-win32-x64-msvc": "0.0.0",
+    "@poen/test_napi-darwin-x64": "0.0.0",
+    "@poen/test_napi-linux-x64-gnu": "0.0.0",
+    "@poen/test_napi-darwin-arm64": "0.0.0",
+    "@poen/test_napi-android-arm64": "0.0.0",
+    "@poen/test_napi-linux-arm64-gnu": "0.0.0",
+    "@poen/test_napi-linux-arm64-musl": "0.0.0",
+    "@poen/test_napi-win32-arm64-msvc": "0.0.0",
+    "@poen/test_napi-linux-arm-gnueabihf": "0.0.0",
+    "@poen/test_napi-linux-x64-musl": "0.0.0",
+    "@poen/test_napi-freebsd-x64": "0.0.0",
+    "@poen/test_napi-win32-ia32-msvc": "0.0.0",
+    "@poen/test_napi-android-arm-eabi": "0.0.0",
+    "@poen/test_napi-darwin-universal": "0.0.0",
+    "@poen/test_napi-linux-riscv64-gnu": "0.0.0"
+  }
 }
